@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **React and next js**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub]([GitHub](https://github.com/Manojkumbi))
 
 - 📫 How to reach me **kumarswamy2803@gmail.com**
 
