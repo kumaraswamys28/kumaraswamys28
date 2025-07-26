@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaraswamys28&show_icons=true&locale=en&layout=compact" alt="manojkumbi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumbi&" alt="manojkumbi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraswamys28&" alt="manojkumbi" /></p>
