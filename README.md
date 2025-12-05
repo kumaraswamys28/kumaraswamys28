@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 - 🔭 I’m currently working on **a File Sharing Platform**
 - 💡 I enjoy solving real-world problems with full-stack development
 - 🌱 Learning: **React**, **Unity**, **C#**, and **DevOps Tools**
@@ -21,12 +21,11 @@
 </p>
 
 ---
-![](https://github-profile-trophy.vercel.app/?username=kumaraswamys28&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 <p align="center">
 
-<h3 >🛠️ Languages & Tools</h3>
+<h3 >Languages & Tools</h3>
 
 <table align="center" style="margin: auto;">
   <tr>
@@ -121,7 +120,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -137,10 +136,10 @@
 
 ---
 
-### 📬 Get in Touch
-- 📫 Email: **kumarswamy2803@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/kumaraswamys](https://www.linkedin.com/in/kumaraswamys/)
-- 🐦 Twitter (X): [@KUMARASWAMY28_](https://x.com/KUMARASWAMY28_)
+###  Get in Touch
+-  Email: **kumarswamy2803@gmail.com**
+-  LinkedIn: [linkedin.com/in/kumaraswamys](https://www.linkedin.com/in/kumaraswamys/)
+-  Twitter (X): [@KUMARASWAMY28_](https://x.com/KUMARASWAMY28_)
 
 ---
 
