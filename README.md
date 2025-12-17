@@ -21,7 +21,6 @@
 </p>
 
 ---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kumaraswamys28&theme=tokyonight&row=1)
 
 
 
