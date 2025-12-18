@@ -122,6 +122,7 @@
 ---
 
 ### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kumaraswamys28)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
