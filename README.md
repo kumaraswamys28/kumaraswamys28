@@ -84,10 +84,10 @@
 ---
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kumaraswamys28)](https://git.io/streak-stats)
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-vert-mu.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaraswamys28&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-vert-mu.vercel.app/api/top-langs?username=kumaraswamys28&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
