@@ -15,9 +15,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kumaraswamys28&theme=tokyonight&row=1&column=7" alt="Trophies" />
-  </a>
+ <img src="https://github-profile-trophy-tojra1zbn-ryo-ma-s-team.vercel.app/?username=kumaraswamys28&theme=tokyonight&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
