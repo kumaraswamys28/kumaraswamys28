@@ -47,8 +47,8 @@ const kumaraswamy = {
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 SmartMonument</h3>
-      <p>An interactive 3D monument explorer built with <strong>Three.js + React</strong>. Walk around heritage structures in your browser — no headset needed.</p>
-      <a href="https://github.com/kumaraswamys28/SmartMonument">
+      <p>An interactive 3D monument explorer built with <strong>Three.js + React</strong>. explore heritage structures in your browser — no headset needed.</p>
+      <a href="https://rvcelib.netlify.app/">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -57,8 +57,8 @@ const kumaraswamy = {
     </td>
     <td width="50%" valign="top">
       <h3>🏠 IoT Digital Twin Dashboard</h3>
-      <p>A <strong>Grafana-inspired React dashboard</strong> featuring a live 3D animated sliding gate as a digital twin — powered by React Three Fiber & Drei.</p>
-      <a href="https://github.com/kumaraswamys28/iot-digital-twin-dashboard">
+      <p>A <strong>React dashboard</strong> featuring a live 3D animated rack as a digital twin — powered by React Three Fiber & Drei.</p>
+      <a href="https://rack-iot.netlify.app/">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -159,10 +159,7 @@ const kumaraswamy = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-vert-mu.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-stats-vert-mu.vercel.app/api/top-langs?username=kumaraswamys28&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kumaraswamys28&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117" />
@@ -184,7 +181,7 @@ const kumaraswamy = {
   </picture>
 </div>
 
-> ⚠️ To enable the snake animation, add this [GitHub Action](https://github.com/Platane/snk) to your profile repo.
+
 
 ---
 
