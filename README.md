@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KUMARASWAMY%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20XR%20Builder%20%7C%203D%20Web%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KUMARASWAMY%20S&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20XR%20Builder%20%7C%203D%20Web%20Enthusiast&descSize=17&descAlignY=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" width="100%" />
 </div>
 
 <div align="center">
@@ -162,9 +162,9 @@ const kumaraswamy = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+<div align="center">
 
 ## 🏆 Achievements & Experience
-
 | 🎖️ | What |
 |-----|------|
 | 🥽 | **Intern @ CoEXR** — Extended Reality Centre of Excellence (6 weeks) |
@@ -172,6 +172,7 @@ const kumaraswamy = {
 | 🎮 | **Unity Essentials Certified** — Unity Technologies |
 | ☁️ | **AWS Certified** — Cloud Foundations |
 | 🔬 | **Research Paper** — VR-based Medical Education (Meta Quest 2, GPU Optimization) |
+</div>
 
 ---
 
@@ -213,7 +214,7 @@ const kumaraswamy = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Amazing&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Let's+Build+Something+Amazing&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 </div>
 
 <div align="center">
