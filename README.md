@@ -47,8 +47,11 @@ const kumaraswamy = {
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 SmartMonument</h3>
-      <p>An interactive 3D monument explorer built with <strong>Three.js + React</strong>. explore heritage structures in your browser — no headset needed.</p>
+      <p>An interactive 3D monument explorer built with <strong>Three.js + React</strong>. Explore heritage structures in your browser — no headset needed.</p>
       <a href="https://rvcelib.netlify.app/">
+        <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/monuments">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -59,6 +62,9 @@ const kumaraswamy = {
       <h3>🏠 IoT Digital Twin Dashboard</h3>
       <p>A <strong>React dashboard</strong> featuring a live 3D animated rack as a digital twin — powered by React Three Fiber & Drei.</p>
       <a href="https://rack-iot.netlify.app/">
+        <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/rack-digital-twin">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -70,7 +76,10 @@ const kumaraswamy = {
     <td width="50%" valign="top">
       <h3>🥽 WebXR 360° Tutorial App</h3>
       <p>An immersive <strong>Meta Quest WebXR app</strong> delivering 360° instructional videos shot with an Insta360 X4 — built with React Three Fiber & xr.</p>
-      <a href="https://github.com/kumaraswamys28/webxr-360-tutorial">
+      <a href="https://636293.netlify.app/">
+        <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/360">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -80,7 +89,10 @@ const kumaraswamy = {
     <td width="50%" valign="top">
       <h3>⚡ CodeExe</h3>
       <p>A <strong>multi-language code execution platform</strong> — write, run, and test code in the browser. Think LeetCode playground, but yours.</p>
-      <a href="https://github.com/kumaraswamys28/CodeExe">
+      <a href="https://texmate.netlify.app/">
+        <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/Textmate">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -92,7 +104,10 @@ const kumaraswamy = {
     <td width="50%" valign="top">
       <h3>📊 LeetLogs</h3>
       <p>A <strong>LeetCode progress tracker</strong> that logs your grind — track problems solved, streaks, and difficulty distribution over time.</p>
-      <a href="https://github.com/kumaraswamys28/LeetLogs">
+      <a href="https://www.npmjs.com/package/leetlogs">
+        <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/leetlogs">
         <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
@@ -104,6 +119,9 @@ const kumaraswamy = {
       <p>A <strong>secure peer-to-peer file sharing</strong> platform — fast uploads, shareable links, and clean UX. Currently in active development.</p>
       <a href="https://github.com/kumaraswamys28/file-sharing-platform">
         <img src="https://img.shields.io/badge/In_Progress-f59e0b?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/kumaraswamys28/file-sharing-platform">
+        <img src="https://img.shields.io/badge/View_Repo-24243e?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
@@ -159,7 +177,10 @@ const kumaraswamy = {
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
+  <img src="https://github-readme-stats-vert-mu.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats-vert-mu.vercel.app/api/top-langs?username=kumaraswamys28&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kumaraswamys28&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117" />
@@ -180,8 +201,6 @@ const kumaraswamy = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/kumaraswamys28/kumaraswamys28/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-
 
 ---
 
