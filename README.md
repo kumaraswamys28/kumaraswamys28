@@ -177,10 +177,10 @@ const kumaraswamy = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-vert-mu.vercel.app/api?username=kumaraswamys28&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
   <img src="https://github-readme-stats-vert-mu.vercel.app/api/top-langs?username=kumaraswamys28&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117" height="180" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kumaraswamys28&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117" />
